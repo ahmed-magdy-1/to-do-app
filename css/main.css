@@ -1,0 +1,23 @@
+h1{
+    
+    margin: 20px;
+}
+.container{
+    text-align: center;
+}
+body{
+    background-color: black;
+}
+.none{
+    display: none;
+}
+.btn{
+    padding: 0px;
+}
+.check{
+    background-color: gray;
+    text-decoration: line-through;
+}
+.block{
+    display: block;
+}
